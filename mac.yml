@@ -1,2 +1,0 @@
-- name: Prepare macOS runner
-  uses: paulz/prepare-macos@v1
